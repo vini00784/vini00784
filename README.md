@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Desenvolvimento de Sistemas no SENAI
 - 🌱 Aprendendo HTML, CSS e JavaScript
-- 📫 Contate-me no email: 1910vini.zzz@gmail.com
+- 📫 Contate-me no email: contact.viniii@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div align="center">
@@ -21,10 +21,10 @@
 ##
   
 <div align="center">
-  <a href = "mailto:arthurpiloto.github1910vini.zzz@@gmail.com">
+  <a href = "mailto:contact.viniii@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/arthur-piloto-53ba48237/" target="_blank">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-991237238/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/vini00784" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
