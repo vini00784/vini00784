@@ -24,7 +24,7 @@
   <a href = "mailto:contact.viniii@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-991237238/" target="_blank">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-santos-991237238/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
