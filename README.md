@@ -1,9 +1,8 @@
 <h1 align="center">Olá! Eu sou o Vinícius Santos 👋</h1>
 
-- 🔭 Cursando Desenvolvimento de Sistemas no SENAI
+- 🔭 Cursei Desenvolvimento de Sistemas no SENAI
 - 🌱 Aprendendo TypeScript e React
 - 📫 Contate-me no email: contact.viniii@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/vini00784">
