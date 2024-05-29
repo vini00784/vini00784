@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Vinícius Santos 👋</h1>
 
 - 🔭 Cursei Desenvolvimento de Sistemas no SENAI
-- 🌱 Aprendendo Python
+- 🌱 Aprendendo Nest
 - 📫 Contate-me no email: contact.viniii@gmail.com
 
 <div align="center">
