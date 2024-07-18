@@ -2,7 +2,6 @@
 
 - 🔭 Cursei Desenvolvimento de Sistemas no SENAI
 - 🌱 Aprendendo Nest
-- 📫 Contate-me no email: contact.viniii@gmail.com
 
 <div align="center">
   <a href="https://github.com/vini00784">
