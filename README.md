@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Vinícius Santos 👋</h1>
 
-- 🔭 Cursei Desenvolvimento de Sistemas no SENAI
-- 🌱 Aprendendo Nest
+- 📚​ Cursei Desenvolvimento de Sistemas no SENAI
+- 😀​ Atualmente trabalho na área da tecnologia, como fullstack!
 
 <div align="center">
   <a href="https://github.com/vini00784">
