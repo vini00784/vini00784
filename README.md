@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  ![My Skills](https://skillicons.dev/icons?i=azure,express,git,mysql,nestjs,nextjs,nodejs,prisma,ts,java&theme=dark)
+  ![My Skills](https://skillicons.dev/icons?i=azure,express,git,mysql,nestjs,nextjs,nodejs,prisma,ts,java,angular&theme=dark)
 </div>
 
   
